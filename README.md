@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My favourite quote:
+> "Don't be a programmer, be a problem solver."  
+
+~ from this [video](#https://youtu.be/EiKK04Ht8QI)
+
 <!--
 **mandychew/mandychew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
