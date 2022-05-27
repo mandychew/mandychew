@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mandy 👋
 
 My favourite quote:
 > "Don't be a programmer, be a problem solver."  
