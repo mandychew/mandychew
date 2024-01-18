@@ -1,6 +1,6 @@
 ### Hi there, I'm Mandy 👋
 
-My favourite quote:
+My favourite quote is
 > "Don't be a programmer, be a problem solver."  
 
 ~ [Joma Tech](https://youtu.be/EiKK04Ht8QI)
